@@ -1,7 +1,7 @@
 import { mineRepo, inspectionRepo, incidentRepo } from '../repositories/firestoreRepository.js';
 
 /**
- * Service logic for Phase 7 AI Mine Risk Intelligence using Groq
+ * Service logic for Phase 7 AI Mine Risk Intelligence using an OpenAI-compatible LLM
  */
 
 function calculateDeterministicRiskSignals(mine, inspections, incidents) {
@@ -116,7 +116,7 @@ export async function analyzeMineRisk(mineId) {
   // 3. Compute deterministic risk signals (ground truth numbers)
   const signals = calculateDeterministicRiskSignals(mine, inspections, incidents);
 
-  // 4. Construct compact structured context for Groq
+  // 4. Construct compact structured context for the LLM
   const contextPayload = {
     mine_profile: {
       mine_id: mine.mine_id,
@@ -153,24 +153,20 @@ export async function analyzeMineRisk(mineId) {
     }))
   };
 
-  // 5. Verify GROQ_API_KEY environment variable
-  const apiKey = process.env.GROQ_API_KEY;
+  // 5. Verify SARVAM_API_KEY environment variable
+  const apiKey = process.env.SARVAM_API_KEY;
   if (!apiKey) {
-    throw new Error("GROQ_API_KEY is not configured on the server environment (.env)");
+    throw new Error("SARVAM_API_KEY is not configured on the server environment (.env)");
   }
 
-  // 6. Call Groq API via server-side fetch (using openai/gpt-oss-120b in JSON Object Mode)
-  const groqResponse = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${apiKey}`
-    },
-    body: JSON.stringify({
-      model: 'openai/gpt-oss-120b',
-      temperature: 0.2,
-      response_format: { type: 'json_object' },
-      messages: [
+  // 6. Call the Sarvam API via server-side fetch.
+  const chatUrl = process.env.LLM_CHAT_URL || 'https://api.sarvam.ai/v1/chat/completions';
+  const model = process.env.LLM_MODEL || 'sarvam-105b';
+  const requestBody = {
+    model,
+    temperature: 0.2,
+    response_format: { type: 'json_object' },
+    messages: [
         {
           role: 'system',
           content: `You are the Agastya AI Safety Intelligence Engine for Agastya AI, an intelligent mine compliance and evidence tracking platform. Your objective is to provide a rigorous, evidence-based safety and risk analysis for a specific mine based strictly on the provided structured Agastya AI dataset.
@@ -197,28 +193,55 @@ CRITICAL INSTRUCTIONS & CONSTRAINTS:
           content: `Analyze mine safety telemetry and compliance records for mine ID '${mineId}':\n\n${JSON.stringify(contextPayload, null, 2)}`
         }
       ]
-    })
+  };
+  let llmResponse = await fetch(chatUrl, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`
+    },
+    body: JSON.stringify(requestBody)
   });
 
-  if (!groqResponse.ok) {
-    const errorText = await groqResponse.text();
-    console.error(`[Groq API Error] HTTP ${groqResponse.status}: ${errorText}`);
-    throw new Error(`Groq AI service error (HTTP ${groqResponse.status}): ${errorText}`);
+  if (!llmResponse.ok) {
+    const errorText = await llmResponse.text();
+    const responseFormatRejected = llmResponse.status === 400 &&
+      /response[_ ]?format|json[_ ]?object/i.test(errorText);
+    if (!responseFormatRejected) {
+      console.error(`[Sarvam API Error] HTTP ${llmResponse.status}: ${errorText}`);
+      throw new Error(`Sarvam AI service error (HTTP ${llmResponse.status}): ${errorText}`);
+    }
+
+    const { response_format, ...fallbackBody } = requestBody;
+    llmResponse = await fetch(chatUrl, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${apiKey}`
+      },
+      body: JSON.stringify(fallbackBody)
+    });
   }
 
-  const rawJson = await groqResponse.json();
+  if (!llmResponse.ok) {
+    const errorText = await llmResponse.text();
+    console.error(`[Sarvam API Error] HTTP ${llmResponse.status}: ${errorText}`);
+    throw new Error(`Sarvam AI service error (HTTP ${llmResponse.status}): ${errorText}`);
+  }
+
+  const rawJson = await llmResponse.json();
   const contentString = rawJson?.choices?.[0]?.message?.content;
 
   if (!contentString) {
-    throw new Error("Groq AI service returned an empty completion response");
+    throw new Error("Sarvam AI service returned an empty completion response");
   }
 
   let parsedAnalysis;
   try {
     parsedAnalysis = JSON.parse(contentString);
   } catch (parseErr) {
-    console.error("Failed to parse Groq response JSON:", contentString);
-    throw new Error("Groq AI service returned malformed JSON output");
+    console.error("Failed to parse Sarvam response JSON:", contentString);
+    throw new Error("Sarvam AI service returned malformed JSON output");
   }
 
   // 7. Validate & sanitize required AI response fields

@@ -20,6 +20,6 @@ services:
       # (Step 3 of DEPLOY.md). Prompted in the dashboard because sync: false.
       - key: CLIENT_URL
         sync: false
-      # Paste the Groq API key in the dashboard. Never commit it.
-      - key: GROQ_API_KEY
+      # Paste the Sarvam API key in the dashboard. Never commit it.
+      - key: SARVAM_API_KEY
         sync: false

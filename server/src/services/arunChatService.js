@@ -2,7 +2,7 @@
  * Arun — Agastya AI conversational assistant for coal mining queries.
  *
  * Server-side chat service with tool calling: Arun can query the platform's
- * live data (mines, incidents, inspections) via Groq function calling and
+ * live data (mines, incidents, inspections) via LLM function calling and
  * ground its answers in real records. The browser never sees the API key.
  */
 
@@ -13,8 +13,8 @@ import { getFilteredGrievances } from './grievanceService.js';
 import { getAlerts } from './alertService.js';
 import { getFilteredViolations, getFilteredCorrectiveActions } from './inspectionService.js';
 
-const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions';
-const MODEL = 'openai/gpt-oss-120b';
+const LLM_CHAT_URL = process.env.LLM_CHAT_URL || 'https://api.sarvam.ai/v1/chat/completions';
+const MODEL = process.env.LLM_MODEL || 'sarvam-105b';
 const MAX_TOOL_ITERATIONS = 6;
 const MAX_HISTORY_MESSAGES = 20;
 const MAX_USER_MESSAGE_LENGTH = 2000;
@@ -50,7 +50,7 @@ RULES
 6. Respond in the same language the user writes in (English, Hindi, or Hinglish are all fine).`;
 
 // ---------------------------------------------------------------------------
-// Tool definitions (Groq / OpenAI function-calling format)
+// Tool definitions (OpenAI-compatible function-calling format)
 // ---------------------------------------------------------------------------
 
 const TOOLS = [
@@ -539,10 +539,10 @@ async function executeTool(name, rawArgs) {
 }
 
 // ---------------------------------------------------------------------------
-// Groq chat with tool-calling loop
+// LLM chat with tool-calling loop
 // ---------------------------------------------------------------------------
 
-async function groqChat(messages, tools, apiKey) {
+async function llmChat(messages, tools, apiKey) {
   const body = {
     model: MODEL,
     temperature: 0.4,
@@ -551,7 +551,7 @@ async function groqChat(messages, tools, apiKey) {
   };
   if (tools) body.tools = tools;
 
-  const res = await fetch(GROQ_URL, {
+  const res = await fetch(LLM_CHAT_URL, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -562,7 +562,7 @@ async function groqChat(messages, tools, apiKey) {
 
   if (!res.ok) {
     const errorText = await res.text();
-    console.error(`[Arun/Groq API Error] HTTP ${res.status}: ${errorText}`);
+    console.error(`[Arun/LLM API Error] HTTP ${res.status}: ${errorText}`);
     throw new Error(`Arun is temporarily unavailable (AI service error HTTP ${res.status})`);
   }
 
@@ -578,9 +578,9 @@ async function groqChat(messages, tools, apiKey) {
  * @returns {Promise<string>} Arun's reply text
  */
 export async function chatWithArun(messages) {
-  const apiKey = process.env.GROQ_API_KEY;
+  const apiKey = process.env.SARVAM_API_KEY;
   if (!apiKey) {
-    throw new Error('GROQ_API_KEY is not configured on the server environment (.env)');
+    throw new Error('SARVAM_API_KEY is not configured on the server environment (.env)');
   }
 
   if (!Array.isArray(messages) || messages.length === 0) {
@@ -599,7 +599,7 @@ export async function chatWithArun(messages) {
   const convo = [{ role: 'system', content: ARUN_SYSTEM_PROMPT }, ...cleanHistory];
 
   for (let i = 0; i < MAX_TOOL_ITERATIONS; i++) {
-    const msg = await groqChat(convo, TOOLS, apiKey);
+    const msg = await llmChat(convo, TOOLS, apiKey);
     convo.push({
       role: 'assistant',
       content: msg.content || '',
@@ -629,7 +629,7 @@ export async function chatWithArun(messages) {
   }
 
   // Tool budget exhausted — ask for a final text answer without tools
-  const final = await groqChat(convo, null, apiKey);
+  const final = await llmChat(convo, null, apiKey);
   const reply = (final.content || '').trim();
   return reply || 'I found the data but could not formulate a response — please try rephrasing your question.';
 }
