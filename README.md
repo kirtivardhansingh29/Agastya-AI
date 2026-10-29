@@ -120,7 +120,8 @@ npm run dev   # Starts Vite dev server on http://localhost:5173
 ```
 
 #### 3. Accessing the Dashboard
-Open your browser at `http://localhost:5173`.
+Open your browser at https://agastya-ai-frontend.vercel.app/
+
 
 ---
 
