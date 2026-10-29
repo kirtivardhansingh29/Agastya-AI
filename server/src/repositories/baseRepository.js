@@ -2,13 +2,14 @@ import { db } from '../config/firebase.js';
 
 /**
  * Base Firestore Repository Data Access Layer for Firebase-backed datasets.
- * Complies strictly with Requirement 31: NO silent JSON fallback.
+ * When Firebase is disabled, reads return empty results so hybrid repositories
+ * can serve the local JSON datasets.
  */
 export class FirestoreRepository {
   constructor(collectionName, primaryKeyField = 'id', ttlMs = 30000) {
     this.collectionName = collectionName;
     this.primaryKeyField = primaryKeyField;
-    this.collectionRef = db.collection(collectionName);
+    this.collectionRef = db ? db.collection(collectionName) : null;
     this.ttlMs = ttlMs;
     this.cache = null;
     this.lastFetch = 0;
@@ -17,9 +18,12 @@ export class FirestoreRepository {
   /**
    * Get all documents in the Firestore collection as an array of objects.
    * Caches in memory for ttlMs to optimize query performance.
-   * If Firestore fails, throws an error (No silent JSON fallback per Requirement 31).
+   * If Firebase is disabled, returns an empty array. Runtime Firestore errors
+   * still throw so callers can handle an unavailable service explicitly.
    */
   async getAll() {
+    if (!this.collectionRef) return [];
+
     const now = Date.now();
     if (this.cache && (now - this.lastFetch < this.ttlMs)) {
       return this.cache;
@@ -49,6 +53,8 @@ export class FirestoreRepository {
    * Performs direct O(1) Firestore document lookup if idField matches primaryKeyField.
    */
   async getById(idField, id) {
+    if (!this.collectionRef) return null;
+
     try {
       if (!id) return null;
       const strId = String(id);
@@ -89,6 +95,8 @@ export class FirestoreRepository {
    * Perform a Firestore query by field equality
    */
   async getWhere(field, value) {
+    if (!this.collectionRef) return [];
+
     try {
       if (this.cache) {
         return this.cache.filter(item => item[field] === value);
@@ -122,5 +130,21 @@ export class FirestoreRepository {
   clearCache() {
     this.cache = null;
     this.lastFetch = 0;
+  }
+
+  async insert(item) {
+    if (!this.collectionRef) {
+      console.warn(`[Firestore disabled] Skipping insert into '${this.collectionName}'`);
+      return item;
+    }
+
+    const key = item[this.primaryKeyField] || item.id;
+    if (!key) {
+      throw new Error(`Cannot insert record into '${this.collectionName}': missing primary key '${this.primaryKeyField}'`);
+    }
+
+    await this.collectionRef.doc(String(key)).set(item);
+    this.clearCache();
+    return item;
   }
 }

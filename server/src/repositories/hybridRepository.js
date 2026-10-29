@@ -135,10 +135,7 @@ export class HybridRepository {
     if (!key) {
       throw new Error(`Cannot insert record into '${this.collectionName}': missing primary key '${this.primaryKeyField}'`);
     }
-    const docId = String(key);
-    await this.firestoreRepo.collectionRef.doc(docId).set(item);
-    this.firestoreRepo.clearCache();
-    return item;
+    return this.firestoreRepo.insert(item);
   }
 
   /**

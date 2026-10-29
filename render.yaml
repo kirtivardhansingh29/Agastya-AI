@@ -23,5 +23,3 @@ services:
       # Paste the Groq API key in the dashboard. Never commit it.
       - key: GROQ_API_KEY
         sync: false
-      - key: GOOGLE_APPLICATION_CREDENTIALS
-        value: /etc/secrets/firebase-service-account.json

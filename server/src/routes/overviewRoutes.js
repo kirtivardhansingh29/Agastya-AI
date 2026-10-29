@@ -3,6 +3,7 @@ import { getOverview, getIncidents, syncData } from '../controllers/overviewCont
 
 const router = Router();
 
+router.get('/', getOverview);
 router.get('/summary', getOverview);
 router.get('/incidents', getIncidents);
 router.post('/sync', syncData);

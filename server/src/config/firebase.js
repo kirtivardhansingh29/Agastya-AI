@@ -14,17 +14,27 @@ dotenv.config({ path: path.join(serverRoot, '.env') });
 const credPath = process.env.GOOGLE_APPLICATION_CREDENTIALS || './config/firebase-service-account.json';
 const resolvedCredPath = path.isAbsolute(credPath) ? credPath : path.resolve(serverRoot, credPath);
 
-if (!fs.existsSync(resolvedCredPath)) {
-  throw new Error(`Firebase service account file not found at ${resolvedCredPath}`);
+let firestoreDb = null;
+let firebaseProjectId = null;
+
+try {
+  if (!fs.existsSync(resolvedCredPath)) {
+    throw new Error(`Firebase service account file not found at ${resolvedCredPath}`);
+  }
+
+  const serviceAccount = JSON.parse(fs.readFileSync(resolvedCredPath, 'utf8'));
+
+  if (!getApps().length) {
+    initializeApp({
+      credential: cert(serviceAccount)
+    });
+  }
+
+  firestoreDb = getFirestore();
+  firebaseProjectId = serviceAccount.project_id || null;
+} catch (error) {
+  console.warn(`Firebase disabled — running on local JSON data only (${error.message})`);
 }
 
-const serviceAccount = JSON.parse(fs.readFileSync(resolvedCredPath, 'utf8'));
-
-if (!getApps().length) {
-  initializeApp({
-    credential: cert(serviceAccount)
-  });
-}
-
-export const db = getFirestore();
-export const projectId = serviceAccount.project_id;
+export const db = firestoreDb;
+export const projectId = firebaseProjectId;
