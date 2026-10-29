@@ -1,0 +1,17 @@
+# Dependencies
+server/node_modules
+client/node_modules
+scratch/node_modules
+
+# Environment & secrets — never commit these
+.env
+.env.local
+*.env
+server/config/firebase-service-account.json
+
+# Build output
+client/dist
+client/dist-ssr
+
+# Logs
+*.log

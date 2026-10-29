@@ -1,0 +1,68 @@
+[
+  {
+    "user_id": "DGMS-USR-001",
+    "full_name": "Dr. Ravi Shankar Mishra",
+    "designation": "Director General of Mines Safety (DGMS)",
+    "role": "regulator",
+    "employee_id_or_contractor_id": "DGMS-HQ-DIR-01",
+    "mine_assigned": "ALL_MINES",
+    "preferred_language": "en",
+    "email": "dg.mines@dgms.gov.in",
+    "date_time_registered": "2023-01-15T09:00:00+05:30"
+  },
+  {
+    "user_id": "DGMS-USR-402",
+    "full_name": "Rajeshwar Verma",
+    "designation": "Deputy Director of Mines Safety",
+    "role": "inspector",
+    "employee_id_or_contractor_id": "DGMS-INSP-402",
+    "mine_assigned": "JH-DHA-BCCL-007",
+    "preferred_language": "en",
+    "email": "r.verma@dgms.gov.in",
+    "date_time_registered": "2023-06-10T10:30:00+05:30"
+  },
+  {
+    "user_id": "DGMS-USR-215",
+    "full_name": "Sunil Verma",
+    "designation": "Deputy Director of Mines Safety",
+    "role": "inspector",
+    "employee_id_or_contractor_id": "DGMS-INSP-215",
+    "mine_assigned": "CG-KOR-SECL-007",
+    "preferred_language": "en",
+    "email": "s.verma@dgms.gov.in",
+    "date_time_registered": "2023-07-05T09:45:00+05:30"
+  },
+  {
+    "user_id": "DGMS-USR-109",
+    "full_name": "Suresh Mohapatra",
+    "designation": "Deputy Director of Mines Safety",
+    "role": "inspector",
+    "employee_id_or_contractor_id": "DGMS-INSP-109",
+    "mine_assigned": "OD-ANG-MCL-004",
+    "preferred_language": "en",
+    "email": "s.mohapatra@dgms.gov.in",
+    "date_time_registered": "2023-08-18T11:15:00+05:30"
+  },
+  {
+    "user_id": "DGMS-USR-318",
+    "full_name": "Anita Deshmukh",
+    "designation": "Assistant Director of Mines Safety",
+    "role": "inspector",
+    "employee_id_or_contractor_id": "DGMS-INSP-318",
+    "mine_assigned": "WB-BUR-ECL-002",
+    "preferred_language": "hi",
+    "email": "a.deshmukh@dgms.gov.in",
+    "date_time_registered": "2024-02-12T10:00:00+05:30"
+  },
+  {
+    "user_id": "DGMS-USR-002",
+    "full_name": "K. Venkatesh Rao",
+    "designation": "Director of Mines Safety (HQ)",
+    "role": "regulator",
+    "employee_id_or_contractor_id": "DGMS-HQ-DIR-02",
+    "mine_assigned": "ALL_MINES",
+    "preferred_language": "en",
+    "email": "dir.hq@dgms.gov.in",
+    "date_time_registered": "2023-03-22T09:30:00+05:30"
+  }
+]

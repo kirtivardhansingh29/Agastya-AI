@@ -1,0 +1,7006 @@
+[
+  {
+    "mine_id": "JH-DHA-BCCL-007",
+    "mine_name": "Bharat Coking Coalfield Pit-7",
+    "coalfield": "Jharia Coalfield",
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.7912,
+      "longitude": 86.4319
+    },
+    "methane_level": "0.85% CH4",
+    "gas_breach": true,
+    "risk_level": "critical",
+    "inspector_in_charge": "Rajeshwar Verma (DGMS-INSP-402)"
+  },
+  {
+    "mine_id": "WB-BUR-ECL-002",
+    "mine_name": "ECL Sripur Underground",
+    "coalfield": "Raniganj Coalfield",
+    "state": "West Bengal",
+    "district": "Paschim Bardhaman",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.6833,
+      "longitude": 87.05
+    },
+    "methane_level": "0.32% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "Amrita Roy (DGMS-INSP-318)"
+  },
+  {
+    "mine_id": "CG-KOR-SECL-003",
+    "mine_name": "SECL Gevra Expansion",
+    "coalfield": "Korba Coalfield",
+    "state": "Chhattisgarh",
+    "district": "Korba",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.359,
+      "longitude": 82.6041
+    },
+    "methane_level": "0.12% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "Manoj Rathore (DGMS-INSP-210)"
+  },
+  {
+    "mine_id": "OD-ANG-MCL-004",
+    "mine_name": "MCL Talcher Colliery",
+    "coalfield": "Talcher Coalfield",
+    "state": "Odisha",
+    "district": "Angul",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.95,
+      "longitude": 85.2167
+    },
+    "methane_level": "0.08% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "Suresh Mohapatra (DGMS-INSP-109)"
+  },
+  {
+    "mine_id": "TG-PED-SCCL-005",
+    "mine_name": "SCCL Ramagundam Shaft-3",
+    "coalfield": "Godavari Valley Coalfield",
+    "state": "Telangana",
+    "district": "Peddapalli",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.7617,
+      "longitude": 79.475
+    },
+    "methane_level": "0.15% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "K. Venkateshwarlu (DGMS-INSP-114)"
+  },
+  {
+    "mine_id": "MP-SIN-NCL-006",
+    "mine_name": "NCL Jayant Block",
+    "coalfield": "Singrauli Coalfield",
+    "state": "Madhya Pradesh",
+    "district": "Singrauli",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.1167,
+      "longitude": 82.6833
+    },
+    "methane_level": "0.05% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "Prakash Shukla (DGMS-INSP-501)"
+  },
+  {
+    "mine_id": "CG-KOR-SECL-007",
+    "mine_name": "SECL Dipka Open Cast",
+    "coalfield": "Korba Coalfield",
+    "state": "Chhattisgarh",
+    "district": "Korba",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.3167,
+      "longitude": 82.5667
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "Sunil Verma (DGMS-INSP-215)"
+  },
+  {
+    "mine_id": "JH-DHA-BCCL-004",
+    "mine_name": "BCCL East Pit-4",
+    "coalfield": "Jharia Coalfield",
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.78,
+      "longitude": 86.42
+    },
+    "methane_level": "0.65% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "Rajeshwar Verma (DGMS-INSP-402)"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-009",
+    "mine_name": "ECL Colliery Block-009",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.71,
+      "longitude": 87.14
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": true,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-010",
+    "mine_name": "SECL Colliery Block-010",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.41,
+      "longitude": 82.72
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-011",
+    "mine_name": "MCL Colliery Block-011",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.04,
+      "longitude": 85.36
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-012",
+    "mine_name": "SCCL Colliery Block-012",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.88,
+      "longitude": 79.65
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": true,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-013",
+    "mine_name": "NCL Colliery Block-013",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.26,
+      "longitude": 82.5
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-014",
+    "mine_name": "WCL Colliery Block-014",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.13,
+      "longitude": 79.15
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-015",
+    "mine_name": "NEC Colliery Block-015",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.51,
+      "longitude": 95.61
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": true,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-016",
+    "mine_name": "BCCL Colliery Block-016",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 24.03,
+      "longitude": 86.34
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-017",
+    "mine_name": "ECL Colliery Block-017",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.44,
+      "longitude": 86.99
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-018",
+    "mine_name": "SECL Colliery Block-018",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.14,
+      "longitude": 82.57
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": true,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-019",
+    "mine_name": "MCL Colliery Block-019",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.77,
+      "longitude": 85.21
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-020",
+    "mine_name": "SCCL Colliery Block-020",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.61,
+      "longitude": 79.5
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-021",
+    "mine_name": "NCL Colliery Block-021",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.99,
+      "longitude": 82.74
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": true,
+    "risk_level": "critical",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-022",
+    "mine_name": "WCL Colliery Block-022",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.86,
+      "longitude": 79.39
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-023",
+    "mine_name": "NEC Colliery Block-023",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.24,
+      "longitude": 95.85
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-024",
+    "mine_name": "BCCL Colliery Block-024",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.76,
+      "longitude": 86.58
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-025",
+    "mine_name": "ECL Colliery Block-025",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.68,
+      "longitude": 87.23
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-026",
+    "mine_name": "SECL Colliery Block-026",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.38,
+      "longitude": 82.42
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-027",
+    "mine_name": "MCL Colliery Block-027",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.01,
+      "longitude": 85.06
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-028",
+    "mine_name": "SCCL Colliery Block-028",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.85,
+      "longitude": 79.35
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-029",
+    "mine_name": "NCL Colliery Block-029",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.23,
+      "longitude": 82.59
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-030",
+    "mine_name": "WCL Colliery Block-030",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.1,
+      "longitude": 79.24
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-031",
+    "mine_name": "NEC Colliery Block-031",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.48,
+      "longitude": 95.7
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-032",
+    "mine_name": "BCCL Colliery Block-032",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 24,
+      "longitude": 86.43
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-033",
+    "mine_name": "ECL Colliery Block-033",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.92,
+      "longitude": 87.08
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-034",
+    "mine_name": "SECL Colliery Block-034",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.11,
+      "longitude": 82.66
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-035",
+    "mine_name": "MCL Colliery Block-035",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.74,
+      "longitude": 85.3
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-036",
+    "mine_name": "SCCL Colliery Block-036",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.58,
+      "longitude": 79.59
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-037",
+    "mine_name": "NCL Colliery Block-037",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.96,
+      "longitude": 82.83
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-038",
+    "mine_name": "WCL Colliery Block-038",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.83,
+      "longitude": 79.48
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-039",
+    "mine_name": "NEC Colliery Block-039",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.21,
+      "longitude": 95.55
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-040",
+    "mine_name": "BCCL Colliery Block-040",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.73,
+      "longitude": 86.28
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-041",
+    "mine_name": "ECL Colliery Block-041",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.65,
+      "longitude": 86.93
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-042",
+    "mine_name": "SECL Colliery Block-042",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.35,
+      "longitude": 82.51
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-043",
+    "mine_name": "MCL Colliery Block-043",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.98,
+      "longitude": 85.15
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-044",
+    "mine_name": "SCCL Colliery Block-044",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.82,
+      "longitude": 79.44
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-045",
+    "mine_name": "NCL Colliery Block-045",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.2,
+      "longitude": 82.68
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-046",
+    "mine_name": "WCL Colliery Block-046",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.07,
+      "longitude": 79.33
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-047",
+    "mine_name": "NEC Colliery Block-047",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.45,
+      "longitude": 95.79
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-048",
+    "mine_name": "BCCL Colliery Block-048",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.97,
+      "longitude": 86.52
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-049",
+    "mine_name": "ECL Colliery Block-049",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.89,
+      "longitude": 87.17
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-050",
+    "mine_name": "SECL Colliery Block-050",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.59,
+      "longitude": 82.75
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "high",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-051",
+    "mine_name": "MCL Colliery Block-051",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.71,
+      "longitude": 85.39
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-052",
+    "mine_name": "SCCL Colliery Block-052",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.55,
+      "longitude": 79.29
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-053",
+    "mine_name": "NCL Colliery Block-053",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.93,
+      "longitude": 82.53
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-054",
+    "mine_name": "WCL Colliery Block-054",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.8,
+      "longitude": 79.18
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-055",
+    "mine_name": "NEC Colliery Block-055",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.18,
+      "longitude": 95.64
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-056",
+    "mine_name": "BCCL Colliery Block-056",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.7,
+      "longitude": 86.37
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-057",
+    "mine_name": "ECL Colliery Block-057",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.62,
+      "longitude": 87.02
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-058",
+    "mine_name": "SECL Colliery Block-058",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.32,
+      "longitude": 82.6
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-059",
+    "mine_name": "MCL Colliery Block-059",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.95,
+      "longitude": 85.24
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-060",
+    "mine_name": "SCCL Colliery Block-060",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.79,
+      "longitude": 79.53
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-061",
+    "mine_name": "NCL Colliery Block-061",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.17,
+      "longitude": 82.77
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-062",
+    "mine_name": "WCL Colliery Block-062",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.04,
+      "longitude": 79.42
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-063",
+    "mine_name": "NEC Colliery Block-063",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.42,
+      "longitude": 95.88
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-064",
+    "mine_name": "BCCL Colliery Block-064",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.94,
+      "longitude": 86.61
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-065",
+    "mine_name": "ECL Colliery Block-065",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.86,
+      "longitude": 86.87
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-066",
+    "mine_name": "SECL Colliery Block-066",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.56,
+      "longitude": 82.45
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-067",
+    "mine_name": "MCL Colliery Block-067",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.19,
+      "longitude": 85.09
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-068",
+    "mine_name": "SCCL Colliery Block-068",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.52,
+      "longitude": 79.38
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-069",
+    "mine_name": "NCL Colliery Block-069",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.9,
+      "longitude": 82.62
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-070",
+    "mine_name": "WCL Colliery Block-070",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.77,
+      "longitude": 79.27
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-071",
+    "mine_name": "NEC Colliery Block-071",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.15,
+      "longitude": 95.73
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-072",
+    "mine_name": "BCCL Colliery Block-072",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.67,
+      "longitude": 86.46
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-073",
+    "mine_name": "ECL Colliery Block-073",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.59,
+      "longitude": 87.11
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-074",
+    "mine_name": "SECL Colliery Block-074",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.29,
+      "longitude": 82.69
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-075",
+    "mine_name": "MCL Colliery Block-075",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.92,
+      "longitude": 85.33
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-076",
+    "mine_name": "SCCL Colliery Block-076",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.76,
+      "longitude": 79.62
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-077",
+    "mine_name": "NCL Colliery Block-077",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.14,
+      "longitude": 82.86
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-078",
+    "mine_name": "WCL Colliery Block-078",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.01,
+      "longitude": 79.12
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-079",
+    "mine_name": "NEC Colliery Block-079",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.39,
+      "longitude": 95.58
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-080",
+    "mine_name": "BCCL Colliery Block-080",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.91,
+      "longitude": 86.31
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-081",
+    "mine_name": "ECL Colliery Block-081",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.83,
+      "longitude": 86.96
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-082",
+    "mine_name": "SECL Colliery Block-082",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.53,
+      "longitude": 82.54
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-083",
+    "mine_name": "MCL Colliery Block-083",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.16,
+      "longitude": 85.18
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-084",
+    "mine_name": "SCCL Colliery Block-084",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19,
+      "longitude": 79.47
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-085",
+    "mine_name": "NCL Colliery Block-085",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.87,
+      "longitude": 82.71
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-086",
+    "mine_name": "WCL Colliery Block-086",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.74,
+      "longitude": 79.36
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-087",
+    "mine_name": "NEC Colliery Block-087",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.12,
+      "longitude": 95.82
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-088",
+    "mine_name": "BCCL Colliery Block-088",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.64,
+      "longitude": 86.55
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-089",
+    "mine_name": "ECL Colliery Block-089",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.56,
+      "longitude": 87.2
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-090",
+    "mine_name": "SECL Colliery Block-090",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.26,
+      "longitude": 82.78
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-091",
+    "mine_name": "MCL Colliery Block-091",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.89,
+      "longitude": 85.03
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-092",
+    "mine_name": "SCCL Colliery Block-092",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.73,
+      "longitude": 79.32
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-093",
+    "mine_name": "NCL Colliery Block-093",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.11,
+      "longitude": 82.56
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-094",
+    "mine_name": "WCL Colliery Block-094",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.98,
+      "longitude": 79.21
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-095",
+    "mine_name": "NEC Colliery Block-095",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.36,
+      "longitude": 95.67
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-096",
+    "mine_name": "BCCL Colliery Block-096",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.88,
+      "longitude": 86.4
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-097",
+    "mine_name": "ECL Colliery Block-097",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.8,
+      "longitude": 87.05
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-098",
+    "mine_name": "SECL Colliery Block-098",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.5,
+      "longitude": 82.63
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-099",
+    "mine_name": "MCL Colliery Block-099",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.13,
+      "longitude": 85.27
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-100",
+    "mine_name": "SCCL Colliery Block-100",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.97,
+      "longitude": 79.56
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-101",
+    "mine_name": "NCL Colliery Block-101",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.35,
+      "longitude": 82.8
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-102",
+    "mine_name": "WCL Colliery Block-102",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.71,
+      "longitude": 79.45
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-103",
+    "mine_name": "NEC Colliery Block-103",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.09,
+      "longitude": 95.91
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-104",
+    "mine_name": "BCCL Colliery Block-104",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.61,
+      "longitude": 86.25
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-105",
+    "mine_name": "ECL Colliery Block-105",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.53,
+      "longitude": 86.9
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-106",
+    "mine_name": "SECL Colliery Block-106",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.23,
+      "longitude": 82.48
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-107",
+    "mine_name": "MCL Colliery Block-107",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.86,
+      "longitude": 85.12
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-108",
+    "mine_name": "SCCL Colliery Block-108",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.7,
+      "longitude": 79.41
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-109",
+    "mine_name": "NCL Colliery Block-109",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.08,
+      "longitude": 82.65
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-110",
+    "mine_name": "WCL Colliery Block-110",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.95,
+      "longitude": 79.3
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-111",
+    "mine_name": "NEC Colliery Block-111",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.33,
+      "longitude": 95.76
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-112",
+    "mine_name": "BCCL Colliery Block-112",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.85,
+      "longitude": 86.49
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-113",
+    "mine_name": "ECL Colliery Block-113",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.77,
+      "longitude": 87.14
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-114",
+    "mine_name": "SECL Colliery Block-114",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.47,
+      "longitude": 82.72
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-115",
+    "mine_name": "MCL Colliery Block-115",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.1,
+      "longitude": 85.36
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-116",
+    "mine_name": "SCCL Colliery Block-116",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.94,
+      "longitude": 79.65
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-117",
+    "mine_name": "NCL Colliery Block-117",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.32,
+      "longitude": 82.5
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-118",
+    "mine_name": "WCL Colliery Block-118",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.19,
+      "longitude": 79.15
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-119",
+    "mine_name": "NEC Colliery Block-119",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.06,
+      "longitude": 95.61
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-120",
+    "mine_name": "BCCL Colliery Block-120",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.58,
+      "longitude": 86.34
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-121",
+    "mine_name": "ECL Colliery Block-121",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.5,
+      "longitude": 86.99
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-122",
+    "mine_name": "SECL Colliery Block-122",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.2,
+      "longitude": 82.57
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-123",
+    "mine_name": "MCL Colliery Block-123",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.83,
+      "longitude": 85.21
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-124",
+    "mine_name": "SCCL Colliery Block-124",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.67,
+      "longitude": 79.5
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-125",
+    "mine_name": "NCL Colliery Block-125",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.05,
+      "longitude": 82.74
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-126",
+    "mine_name": "WCL Colliery Block-126",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.92,
+      "longitude": 79.39
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-127",
+    "mine_name": "NEC Colliery Block-127",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.3,
+      "longitude": 95.85
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-128",
+    "mine_name": "BCCL Colliery Block-128",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.82,
+      "longitude": 86.58
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-129",
+    "mine_name": "ECL Colliery Block-129",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.74,
+      "longitude": 87.23
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "warning",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-130",
+    "mine_name": "SECL Colliery Block-130",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.44,
+      "longitude": 82.42
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-131",
+    "mine_name": "MCL Colliery Block-131",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.07,
+      "longitude": 85.06
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-132",
+    "mine_name": "SCCL Colliery Block-132",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.91,
+      "longitude": 79.35
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-133",
+    "mine_name": "NCL Colliery Block-133",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.29,
+      "longitude": 82.59
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-134",
+    "mine_name": "WCL Colliery Block-134",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.16,
+      "longitude": 79.24
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-135",
+    "mine_name": "NEC Colliery Block-135",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.54,
+      "longitude": 95.7
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-136",
+    "mine_name": "BCCL Colliery Block-136",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.55,
+      "longitude": 86.43
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-137",
+    "mine_name": "ECL Colliery Block-137",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.47,
+      "longitude": 87.08
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-138",
+    "mine_name": "SECL Colliery Block-138",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.17,
+      "longitude": 82.66
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-139",
+    "mine_name": "MCL Colliery Block-139",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.8,
+      "longitude": 85.3
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-140",
+    "mine_name": "SCCL Colliery Block-140",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.64,
+      "longitude": 79.59
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-141",
+    "mine_name": "NCL Colliery Block-141",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.02,
+      "longitude": 82.83
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-142",
+    "mine_name": "WCL Colliery Block-142",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.89,
+      "longitude": 79.48
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-143",
+    "mine_name": "NEC Colliery Block-143",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.27,
+      "longitude": 95.55
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-144",
+    "mine_name": "BCCL Colliery Block-144",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.79,
+      "longitude": 86.28
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-145",
+    "mine_name": "ECL Colliery Block-145",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.71,
+      "longitude": 86.93
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-146",
+    "mine_name": "SECL Colliery Block-146",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.41,
+      "longitude": 82.51
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-147",
+    "mine_name": "MCL Colliery Block-147",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.04,
+      "longitude": 85.15
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-148",
+    "mine_name": "SCCL Colliery Block-148",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.88,
+      "longitude": 79.44
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-149",
+    "mine_name": "NCL Colliery Block-149",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.26,
+      "longitude": 82.68
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-150",
+    "mine_name": "WCL Colliery Block-150",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.13,
+      "longitude": 79.33
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-151",
+    "mine_name": "NEC Colliery Block-151",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.51,
+      "longitude": 95.79
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-152",
+    "mine_name": "BCCL Colliery Block-152",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.03,
+      "longitude": 86.52
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-153",
+    "mine_name": "ECL Colliery Block-153",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.44,
+      "longitude": 87.17
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-154",
+    "mine_name": "SECL Colliery Block-154",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.14,
+      "longitude": 82.75
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-155",
+    "mine_name": "MCL Colliery Block-155",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.77,
+      "longitude": 85.39
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-156",
+    "mine_name": "SCCL Colliery Block-156",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.61,
+      "longitude": 79.29
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-157",
+    "mine_name": "NCL Colliery Block-157",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.99,
+      "longitude": 82.53
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-158",
+    "mine_name": "WCL Colliery Block-158",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.86,
+      "longitude": 79.18
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-159",
+    "mine_name": "NEC Colliery Block-159",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.24,
+      "longitude": 95.64
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-160",
+    "mine_name": "BCCL Colliery Block-160",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.76,
+      "longitude": 86.37
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-161",
+    "mine_name": "ECL Colliery Block-161",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.68,
+      "longitude": 87.02
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-162",
+    "mine_name": "SECL Colliery Block-162",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.38,
+      "longitude": 82.6
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-163",
+    "mine_name": "MCL Colliery Block-163",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.01,
+      "longitude": 85.24
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-164",
+    "mine_name": "SCCL Colliery Block-164",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.85,
+      "longitude": 79.53
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-165",
+    "mine_name": "NCL Colliery Block-165",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.23,
+      "longitude": 82.77
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-166",
+    "mine_name": "WCL Colliery Block-166",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.1,
+      "longitude": 79.42
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-167",
+    "mine_name": "NEC Colliery Block-167",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.48,
+      "longitude": 95.88
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-168",
+    "mine_name": "BCCL Colliery Block-168",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24,
+      "longitude": 86.61
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-169",
+    "mine_name": "ECL Colliery Block-169",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.92,
+      "longitude": 86.87
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-170",
+    "mine_name": "SECL Colliery Block-170",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.11,
+      "longitude": 82.45
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-171",
+    "mine_name": "MCL Colliery Block-171",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.74,
+      "longitude": 85.09
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-172",
+    "mine_name": "SCCL Colliery Block-172",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.58,
+      "longitude": 79.38
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-173",
+    "mine_name": "NCL Colliery Block-173",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.96,
+      "longitude": 82.62
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-174",
+    "mine_name": "WCL Colliery Block-174",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.83,
+      "longitude": 79.27
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-175",
+    "mine_name": "NEC Colliery Block-175",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.21,
+      "longitude": 95.73
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-176",
+    "mine_name": "BCCL Colliery Block-176",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.73,
+      "longitude": 86.46
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-177",
+    "mine_name": "ECL Colliery Block-177",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.65,
+      "longitude": 87.11
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-178",
+    "mine_name": "SECL Colliery Block-178",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.35,
+      "longitude": 82.69
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-179",
+    "mine_name": "MCL Colliery Block-179",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.98,
+      "longitude": 85.33
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-180",
+    "mine_name": "SCCL Colliery Block-180",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.82,
+      "longitude": 79.62
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-181",
+    "mine_name": "NCL Colliery Block-181",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.2,
+      "longitude": 82.86
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-182",
+    "mine_name": "WCL Colliery Block-182",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.07,
+      "longitude": 79.12
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-183",
+    "mine_name": "NEC Colliery Block-183",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.45,
+      "longitude": 95.58
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-184",
+    "mine_name": "BCCL Colliery Block-184",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.97,
+      "longitude": 86.31
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-185",
+    "mine_name": "ECL Colliery Block-185",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.89,
+      "longitude": 86.96
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-186",
+    "mine_name": "SECL Colliery Block-186",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.59,
+      "longitude": 82.54
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-187",
+    "mine_name": "MCL Colliery Block-187",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.71,
+      "longitude": 85.18
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-188",
+    "mine_name": "SCCL Colliery Block-188",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.55,
+      "longitude": 79.47
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-189",
+    "mine_name": "NCL Colliery Block-189",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.93,
+      "longitude": 82.71
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-190",
+    "mine_name": "WCL Colliery Block-190",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.8,
+      "longitude": 79.36
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-191",
+    "mine_name": "NEC Colliery Block-191",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.18,
+      "longitude": 95.82
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-192",
+    "mine_name": "BCCL Colliery Block-192",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.7,
+      "longitude": 86.55
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-193",
+    "mine_name": "ECL Colliery Block-193",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.62,
+      "longitude": 87.2
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-194",
+    "mine_name": "SECL Colliery Block-194",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.32,
+      "longitude": 82.78
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-195",
+    "mine_name": "MCL Colliery Block-195",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.95,
+      "longitude": 85.03
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-196",
+    "mine_name": "SCCL Colliery Block-196",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.79,
+      "longitude": 79.32
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-197",
+    "mine_name": "NCL Colliery Block-197",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.17,
+      "longitude": 82.56
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-198",
+    "mine_name": "WCL Colliery Block-198",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.04,
+      "longitude": 79.21
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-199",
+    "mine_name": "NEC Colliery Block-199",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.42,
+      "longitude": 95.67
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-200",
+    "mine_name": "BCCL Colliery Block-200",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.94,
+      "longitude": 86.4
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-201",
+    "mine_name": "ECL Colliery Block-201",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.86,
+      "longitude": 87.05
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-202",
+    "mine_name": "SECL Colliery Block-202",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.56,
+      "longitude": 82.63
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-203",
+    "mine_name": "MCL Colliery Block-203",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.19,
+      "longitude": 85.27
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-204",
+    "mine_name": "SCCL Colliery Block-204",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.52,
+      "longitude": 79.56
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-205",
+    "mine_name": "NCL Colliery Block-205",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.9,
+      "longitude": 82.8
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-206",
+    "mine_name": "WCL Colliery Block-206",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.77,
+      "longitude": 79.45
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-207",
+    "mine_name": "NEC Colliery Block-207",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.15,
+      "longitude": 95.91
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-208",
+    "mine_name": "BCCL Colliery Block-208",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.67,
+      "longitude": 86.25
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-209",
+    "mine_name": "ECL Colliery Block-209",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.59,
+      "longitude": 86.9
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-210",
+    "mine_name": "SECL Colliery Block-210",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.29,
+      "longitude": 82.48
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-211",
+    "mine_name": "MCL Colliery Block-211",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.92,
+      "longitude": 85.12
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-212",
+    "mine_name": "SCCL Colliery Block-212",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.76,
+      "longitude": 79.41
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-213",
+    "mine_name": "NCL Colliery Block-213",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.14,
+      "longitude": 82.65
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-214",
+    "mine_name": "WCL Colliery Block-214",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.01,
+      "longitude": 79.3
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-215",
+    "mine_name": "NEC Colliery Block-215",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.39,
+      "longitude": 95.76
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-216",
+    "mine_name": "BCCL Colliery Block-216",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.91,
+      "longitude": 86.49
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-217",
+    "mine_name": "ECL Colliery Block-217",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.83,
+      "longitude": 87.14
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-218",
+    "mine_name": "SECL Colliery Block-218",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.53,
+      "longitude": 82.72
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-219",
+    "mine_name": "MCL Colliery Block-219",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.16,
+      "longitude": 85.36
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-220",
+    "mine_name": "SCCL Colliery Block-220",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19,
+      "longitude": 79.65
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-221",
+    "mine_name": "NCL Colliery Block-221",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.87,
+      "longitude": 82.5
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-222",
+    "mine_name": "WCL Colliery Block-222",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.74,
+      "longitude": 79.15
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-223",
+    "mine_name": "NEC Colliery Block-223",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.12,
+      "longitude": 95.61
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-224",
+    "mine_name": "BCCL Colliery Block-224",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.64,
+      "longitude": 86.34
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-225",
+    "mine_name": "ECL Colliery Block-225",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.56,
+      "longitude": 86.99
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-226",
+    "mine_name": "SECL Colliery Block-226",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.26,
+      "longitude": 82.57
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-227",
+    "mine_name": "MCL Colliery Block-227",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.89,
+      "longitude": 85.21
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-228",
+    "mine_name": "SCCL Colliery Block-228",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.73,
+      "longitude": 79.5
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-229",
+    "mine_name": "NCL Colliery Block-229",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.11,
+      "longitude": 82.74
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-230",
+    "mine_name": "WCL Colliery Block-230",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.98,
+      "longitude": 79.39
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-231",
+    "mine_name": "NEC Colliery Block-231",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.36,
+      "longitude": 95.85
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-232",
+    "mine_name": "BCCL Colliery Block-232",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.88,
+      "longitude": 86.58
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-233",
+    "mine_name": "ECL Colliery Block-233",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.8,
+      "longitude": 87.23
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-234",
+    "mine_name": "SECL Colliery Block-234",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.5,
+      "longitude": 82.42
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-235",
+    "mine_name": "MCL Colliery Block-235",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.13,
+      "longitude": 85.06
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-236",
+    "mine_name": "SCCL Colliery Block-236",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.97,
+      "longitude": 79.35
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-237",
+    "mine_name": "NCL Colliery Block-237",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.35,
+      "longitude": 82.59
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-238",
+    "mine_name": "WCL Colliery Block-238",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.71,
+      "longitude": 79.24
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-239",
+    "mine_name": "NEC Colliery Block-239",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.09,
+      "longitude": 95.7
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-240",
+    "mine_name": "BCCL Colliery Block-240",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.61,
+      "longitude": 86.43
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-241",
+    "mine_name": "ECL Colliery Block-241",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.53,
+      "longitude": 87.08
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-242",
+    "mine_name": "SECL Colliery Block-242",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.23,
+      "longitude": 82.66
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-243",
+    "mine_name": "MCL Colliery Block-243",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.86,
+      "longitude": 85.3
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-244",
+    "mine_name": "SCCL Colliery Block-244",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.7,
+      "longitude": 79.59
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-245",
+    "mine_name": "NCL Colliery Block-245",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.08,
+      "longitude": 82.83
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-246",
+    "mine_name": "WCL Colliery Block-246",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.95,
+      "longitude": 79.48
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-247",
+    "mine_name": "NEC Colliery Block-247",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.33,
+      "longitude": 95.55
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-248",
+    "mine_name": "BCCL Colliery Block-248",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.85,
+      "longitude": 86.28
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-249",
+    "mine_name": "ECL Colliery Block-249",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.77,
+      "longitude": 86.93
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-250",
+    "mine_name": "SECL Colliery Block-250",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.47,
+      "longitude": 82.51
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-251",
+    "mine_name": "MCL Colliery Block-251",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.1,
+      "longitude": 85.15
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-252",
+    "mine_name": "SCCL Colliery Block-252",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.94,
+      "longitude": 79.44
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-253",
+    "mine_name": "NCL Colliery Block-253",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.32,
+      "longitude": 82.68
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-254",
+    "mine_name": "WCL Colliery Block-254",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.19,
+      "longitude": 79.33
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-255",
+    "mine_name": "NEC Colliery Block-255",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.06,
+      "longitude": 95.79
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-256",
+    "mine_name": "BCCL Colliery Block-256",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.58,
+      "longitude": 86.52
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-257",
+    "mine_name": "ECL Colliery Block-257",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.5,
+      "longitude": 87.17
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-258",
+    "mine_name": "SECL Colliery Block-258",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.2,
+      "longitude": 82.75
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-259",
+    "mine_name": "MCL Colliery Block-259",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.83,
+      "longitude": 85.39
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-260",
+    "mine_name": "SCCL Colliery Block-260",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.67,
+      "longitude": 79.29
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-261",
+    "mine_name": "NCL Colliery Block-261",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.05,
+      "longitude": 82.53
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-262",
+    "mine_name": "WCL Colliery Block-262",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.92,
+      "longitude": 79.18
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-263",
+    "mine_name": "NEC Colliery Block-263",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.3,
+      "longitude": 95.64
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-264",
+    "mine_name": "BCCL Colliery Block-264",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.82,
+      "longitude": 86.37
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-265",
+    "mine_name": "ECL Colliery Block-265",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.74,
+      "longitude": 87.02
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-266",
+    "mine_name": "SECL Colliery Block-266",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.44,
+      "longitude": 82.6
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-267",
+    "mine_name": "MCL Colliery Block-267",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.07,
+      "longitude": 85.24
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-268",
+    "mine_name": "SCCL Colliery Block-268",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.91,
+      "longitude": 79.53
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-269",
+    "mine_name": "NCL Colliery Block-269",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.29,
+      "longitude": 82.77
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-270",
+    "mine_name": "WCL Colliery Block-270",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.16,
+      "longitude": 79.42
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-271",
+    "mine_name": "NEC Colliery Block-271",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.54,
+      "longitude": 95.88
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-272",
+    "mine_name": "BCCL Colliery Block-272",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.55,
+      "longitude": 86.61
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-273",
+    "mine_name": "ECL Colliery Block-273",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.47,
+      "longitude": 86.87
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-274",
+    "mine_name": "SECL Colliery Block-274",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.17,
+      "longitude": 82.45
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-275",
+    "mine_name": "MCL Colliery Block-275",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.8,
+      "longitude": 85.09
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-276",
+    "mine_name": "SCCL Colliery Block-276",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.64,
+      "longitude": 79.38
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-277",
+    "mine_name": "NCL Colliery Block-277",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.02,
+      "longitude": 82.62
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-278",
+    "mine_name": "WCL Colliery Block-278",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.89,
+      "longitude": 79.27
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-279",
+    "mine_name": "NEC Colliery Block-279",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.27,
+      "longitude": 95.73
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-280",
+    "mine_name": "BCCL Colliery Block-280",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.79,
+      "longitude": 86.46
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-281",
+    "mine_name": "ECL Colliery Block-281",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.71,
+      "longitude": 87.11
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-282",
+    "mine_name": "SECL Colliery Block-282",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.41,
+      "longitude": 82.69
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-283",
+    "mine_name": "MCL Colliery Block-283",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.04,
+      "longitude": 85.33
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-284",
+    "mine_name": "SCCL Colliery Block-284",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.88,
+      "longitude": 79.62
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-285",
+    "mine_name": "NCL Colliery Block-285",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.26,
+      "longitude": 82.86
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-286",
+    "mine_name": "WCL Colliery Block-286",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.13,
+      "longitude": 79.12
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-287",
+    "mine_name": "NEC Colliery Block-287",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.51,
+      "longitude": 95.58
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-288",
+    "mine_name": "BCCL Colliery Block-288",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 24.03,
+      "longitude": 86.31
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-289",
+    "mine_name": "ECL Colliery Block-289",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.44,
+      "longitude": 86.96
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-290",
+    "mine_name": "SECL Colliery Block-290",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.14,
+      "longitude": 82.54
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-291",
+    "mine_name": "MCL Colliery Block-291",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.77,
+      "longitude": 85.18
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-292",
+    "mine_name": "SCCL Colliery Block-292",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.61,
+      "longitude": 79.47
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-293",
+    "mine_name": "NCL Colliery Block-293",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.99,
+      "longitude": 82.71
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-294",
+    "mine_name": "WCL Colliery Block-294",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.86,
+      "longitude": 79.36
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-295",
+    "mine_name": "NEC Colliery Block-295",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.24,
+      "longitude": 95.82
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-296",
+    "mine_name": "BCCL Colliery Block-296",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.76,
+      "longitude": 86.55
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-297",
+    "mine_name": "ECL Colliery Block-297",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.68,
+      "longitude": 87.2
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-298",
+    "mine_name": "SECL Colliery Block-298",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.38,
+      "longitude": 82.78
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-299",
+    "mine_name": "MCL Colliery Block-299",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.01,
+      "longitude": 85.03
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-300",
+    "mine_name": "SCCL Colliery Block-300",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.85,
+      "longitude": 79.32
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-301",
+    "mine_name": "NCL Colliery Block-301",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.23,
+      "longitude": 82.56
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-302",
+    "mine_name": "WCL Colliery Block-302",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.1,
+      "longitude": 79.21
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-303",
+    "mine_name": "NEC Colliery Block-303",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.48,
+      "longitude": 95.67
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-304",
+    "mine_name": "BCCL Colliery Block-304",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 24,
+      "longitude": 86.4
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-305",
+    "mine_name": "ECL Colliery Block-305",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.92,
+      "longitude": 87.05
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-306",
+    "mine_name": "SECL Colliery Block-306",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.11,
+      "longitude": 82.63
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-307",
+    "mine_name": "MCL Colliery Block-307",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.74,
+      "longitude": 85.27
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-308",
+    "mine_name": "SCCL Colliery Block-308",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.58,
+      "longitude": 79.56
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-309",
+    "mine_name": "NCL Colliery Block-309",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.96,
+      "longitude": 82.8
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-310",
+    "mine_name": "WCL Colliery Block-310",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.83,
+      "longitude": 79.45
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-311",
+    "mine_name": "NEC Colliery Block-311",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.21,
+      "longitude": 95.91
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-312",
+    "mine_name": "BCCL Colliery Block-312",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.73,
+      "longitude": 86.25
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-313",
+    "mine_name": "ECL Colliery Block-313",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.65,
+      "longitude": 86.9
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-314",
+    "mine_name": "SECL Colliery Block-314",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.35,
+      "longitude": 82.48
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-315",
+    "mine_name": "MCL Colliery Block-315",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.98,
+      "longitude": 85.12
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-316",
+    "mine_name": "SCCL Colliery Block-316",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.82,
+      "longitude": 79.41
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-317",
+    "mine_name": "NCL Colliery Block-317",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.2,
+      "longitude": 82.65
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-318",
+    "mine_name": "WCL Colliery Block-318",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.07,
+      "longitude": 79.3
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-319",
+    "mine_name": "NEC Colliery Block-319",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.45,
+      "longitude": 95.76
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-320",
+    "mine_name": "BCCL Colliery Block-320",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.97,
+      "longitude": 86.49
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-321",
+    "mine_name": "ECL Colliery Block-321",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.89,
+      "longitude": 87.14
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-322",
+    "mine_name": "SECL Colliery Block-322",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.59,
+      "longitude": 82.72
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-323",
+    "mine_name": "MCL Colliery Block-323",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.71,
+      "longitude": 85.36
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-324",
+    "mine_name": "SCCL Colliery Block-324",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.55,
+      "longitude": 79.65
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-325",
+    "mine_name": "NCL Colliery Block-325",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.93,
+      "longitude": 82.5
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-326",
+    "mine_name": "WCL Colliery Block-326",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.8,
+      "longitude": 79.15
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-327",
+    "mine_name": "NEC Colliery Block-327",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.18,
+      "longitude": 95.61
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-328",
+    "mine_name": "BCCL Colliery Block-328",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.7,
+      "longitude": 86.34
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-329",
+    "mine_name": "ECL Colliery Block-329",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.62,
+      "longitude": 86.99
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-330",
+    "mine_name": "SECL Colliery Block-330",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.32,
+      "longitude": 82.57
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-331",
+    "mine_name": "MCL Colliery Block-331",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.95,
+      "longitude": 85.21
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-332",
+    "mine_name": "SCCL Colliery Block-332",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.79,
+      "longitude": 79.5
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-333",
+    "mine_name": "NCL Colliery Block-333",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.17,
+      "longitude": 82.74
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-334",
+    "mine_name": "WCL Colliery Block-334",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.04,
+      "longitude": 79.39
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-335",
+    "mine_name": "NEC Colliery Block-335",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.42,
+      "longitude": 95.85
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-336",
+    "mine_name": "BCCL Colliery Block-336",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.94,
+      "longitude": 86.58
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-337",
+    "mine_name": "ECL Colliery Block-337",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.86,
+      "longitude": 87.23
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-338",
+    "mine_name": "SECL Colliery Block-338",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.56,
+      "longitude": 82.42
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-339",
+    "mine_name": "MCL Colliery Block-339",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.19,
+      "longitude": 85.06
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-340",
+    "mine_name": "SCCL Colliery Block-340",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.52,
+      "longitude": 79.35
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-341",
+    "mine_name": "NCL Colliery Block-341",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.9,
+      "longitude": 82.59
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-342",
+    "mine_name": "WCL Colliery Block-342",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.77,
+      "longitude": 79.24
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-343",
+    "mine_name": "NEC Colliery Block-343",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.15,
+      "longitude": 95.7
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-344",
+    "mine_name": "BCCL Colliery Block-344",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.67,
+      "longitude": 86.43
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-345",
+    "mine_name": "ECL Colliery Block-345",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.59,
+      "longitude": 87.08
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-346",
+    "mine_name": "SECL Colliery Block-346",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.29,
+      "longitude": 82.66
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-347",
+    "mine_name": "MCL Colliery Block-347",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.92,
+      "longitude": 85.3
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-348",
+    "mine_name": "SCCL Colliery Block-348",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.76,
+      "longitude": 79.59
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-349",
+    "mine_name": "NCL Colliery Block-349",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.14,
+      "longitude": 82.83
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-350",
+    "mine_name": "WCL Colliery Block-350",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.01,
+      "longitude": 79.48
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-351",
+    "mine_name": "NEC Colliery Block-351",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.39,
+      "longitude": 95.55
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-352",
+    "mine_name": "BCCL Colliery Block-352",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.91,
+      "longitude": 86.28
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-353",
+    "mine_name": "ECL Colliery Block-353",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.83,
+      "longitude": 86.93
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-354",
+    "mine_name": "SECL Colliery Block-354",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.53,
+      "longitude": 82.51
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-355",
+    "mine_name": "MCL Colliery Block-355",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.16,
+      "longitude": 85.15
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-356",
+    "mine_name": "SCCL Colliery Block-356",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19,
+      "longitude": 79.44
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-357",
+    "mine_name": "NCL Colliery Block-357",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.87,
+      "longitude": 82.68
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-358",
+    "mine_name": "WCL Colliery Block-358",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.74,
+      "longitude": 79.33
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-359",
+    "mine_name": "NEC Colliery Block-359",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.12,
+      "longitude": 95.79
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-360",
+    "mine_name": "BCCL Colliery Block-360",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.64,
+      "longitude": 86.52
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-361",
+    "mine_name": "ECL Colliery Block-361",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.56,
+      "longitude": 87.17
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-362",
+    "mine_name": "SECL Colliery Block-362",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.26,
+      "longitude": 82.75
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-363",
+    "mine_name": "MCL Colliery Block-363",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.89,
+      "longitude": 85.39
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-364",
+    "mine_name": "SCCL Colliery Block-364",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.73,
+      "longitude": 79.29
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-365",
+    "mine_name": "NCL Colliery Block-365",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.11,
+      "longitude": 82.53
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-366",
+    "mine_name": "WCL Colliery Block-366",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.98,
+      "longitude": 79.18
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-367",
+    "mine_name": "NEC Colliery Block-367",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.36,
+      "longitude": 95.64
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-368",
+    "mine_name": "BCCL Colliery Block-368",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.88,
+      "longitude": 86.37
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-369",
+    "mine_name": "ECL Colliery Block-369",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.8,
+      "longitude": 87.02
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-370",
+    "mine_name": "SECL Colliery Block-370",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.5,
+      "longitude": 82.6
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-371",
+    "mine_name": "MCL Colliery Block-371",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.13,
+      "longitude": 85.24
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-372",
+    "mine_name": "SCCL Colliery Block-372",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.97,
+      "longitude": 79.53
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-373",
+    "mine_name": "NCL Colliery Block-373",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.35,
+      "longitude": 82.77
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-374",
+    "mine_name": "WCL Colliery Block-374",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.71,
+      "longitude": 79.42
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-375",
+    "mine_name": "NEC Colliery Block-375",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.09,
+      "longitude": 95.88
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-376",
+    "mine_name": "BCCL Colliery Block-376",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.61,
+      "longitude": 86.61
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-377",
+    "mine_name": "ECL Colliery Block-377",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.53,
+      "longitude": 86.87
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-378",
+    "mine_name": "SECL Colliery Block-378",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.23,
+      "longitude": 82.45
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-379",
+    "mine_name": "MCL Colliery Block-379",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.86,
+      "longitude": 85.09
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-380",
+    "mine_name": "SCCL Colliery Block-380",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.7,
+      "longitude": 79.38
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-381",
+    "mine_name": "NCL Colliery Block-381",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.08,
+      "longitude": 82.62
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-382",
+    "mine_name": "WCL Colliery Block-382",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.95,
+      "longitude": 79.27
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-383",
+    "mine_name": "NEC Colliery Block-383",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.33,
+      "longitude": 95.73
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-123"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-384",
+    "mine_name": "BCCL Colliery Block-384",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "suspended",
+    "location": {
+      "latitude": 23.85,
+      "longitude": 86.46
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-124"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-385",
+    "mine_name": "ECL Colliery Block-385",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.77,
+      "longitude": 87.11
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-125"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-386",
+    "mine_name": "SECL Colliery Block-386",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.47,
+      "longitude": 82.69
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-126"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-387",
+    "mine_name": "MCL Colliery Block-387",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.1,
+      "longitude": 85.33
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-127"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-388",
+    "mine_name": "SCCL Colliery Block-388",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.94,
+      "longitude": 79.62
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-128"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-389",
+    "mine_name": "NCL Colliery Block-389",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.32,
+      "longitude": 82.86
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-129"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-390",
+    "mine_name": "WCL Colliery Block-390",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.19,
+      "longitude": 79.12
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-100"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-391",
+    "mine_name": "NEC Colliery Block-391",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.06,
+      "longitude": 95.58
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-101"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-392",
+    "mine_name": "BCCL Colliery Block-392",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.58,
+      "longitude": 86.31
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-102"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-393",
+    "mine_name": "ECL Colliery Block-393",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.5,
+      "longitude": 86.96
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-103"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-394",
+    "mine_name": "SECL Colliery Block-394",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.2,
+      "longitude": 82.54
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-104"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-395",
+    "mine_name": "MCL Colliery Block-395",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.83,
+      "longitude": 85.18
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-105"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-396",
+    "mine_name": "SCCL Colliery Block-396",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.67,
+      "longitude": 79.47
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-106"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-397",
+    "mine_name": "NCL Colliery Block-397",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.05,
+      "longitude": 82.71
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-107"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-398",
+    "mine_name": "WCL Colliery Block-398",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 19.92,
+      "longitude": 79.36
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-108"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-399",
+    "mine_name": "NEC Colliery Block-399",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.3,
+      "longitude": 95.82
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-109"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-400",
+    "mine_name": "BCCL Colliery Block-400",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.82,
+      "longitude": 86.55
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-110"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-401",
+    "mine_name": "ECL Colliery Block-401",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.74,
+      "longitude": 87.2
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-111"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-402",
+    "mine_name": "SECL Colliery Block-402",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.44,
+      "longitude": 82.78
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-112"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-403",
+    "mine_name": "MCL Colliery Block-403",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 21.07,
+      "longitude": 85.03
+    },
+    "methane_level": "0.14% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-113"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-404",
+    "mine_name": "SCCL Colliery Block-404",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.91,
+      "longitude": 79.32
+    },
+    "methane_level": "0.18% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-114"
+  },
+  {
+    "mine_id": "MP-BLK-NCL-405",
+    "mine_name": "NCL Colliery Block-405",
+    "coalfield": "Singrauli Basin",
+    "state": "Madhya Pradesh",
+    "district": "Madhya Pradesh Sector",
+    "operator": "NCL",
+    "status": "operating",
+    "location": {
+      "latitude": 24.29,
+      "longitude": 82.56
+    },
+    "methane_level": "0.22% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-115"
+  },
+  {
+    "mine_id": "MH-BLK-WCL-406",
+    "mine_name": "WCL Colliery Block-406",
+    "coalfield": "Wardha Valley",
+    "state": "Maharashtra",
+    "district": "Maharashtra Sector",
+    "operator": "WCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.16,
+      "longitude": 79.21
+    },
+    "methane_level": "0.26% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-116"
+  },
+  {
+    "mine_id": "AS-BLK-NEC-407",
+    "mine_name": "NEC Colliery Block-407",
+    "coalfield": "Makum Coalfield",
+    "state": "Assam",
+    "district": "Assam Sector",
+    "operator": "NEC",
+    "status": "operating",
+    "location": {
+      "latitude": 27.54,
+      "longitude": 95.67
+    },
+    "methane_level": "0.30% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-117"
+  },
+  {
+    "mine_id": "JH-BLK-BCCL-408",
+    "mine_name": "BCCL Colliery Block-408",
+    "coalfield": "Jharia Coal Basin",
+    "state": "Jharkhand",
+    "district": "Jharkhand Sector",
+    "operator": "BCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.55,
+      "longitude": 86.4
+    },
+    "methane_level": "0.34% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-118"
+  },
+  {
+    "mine_id": "WB-BLK-ECL-409",
+    "mine_name": "ECL Colliery Block-409",
+    "coalfield": "Raniganj Coal Basin",
+    "state": "West Bengal",
+    "district": "West Bengal Sector",
+    "operator": "ECL",
+    "status": "operating",
+    "location": {
+      "latitude": 23.47,
+      "longitude": 87.05
+    },
+    "methane_level": "0.38% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-119"
+  },
+  {
+    "mine_id": "CG-BLK-SECL-410",
+    "mine_name": "SECL Colliery Block-410",
+    "coalfield": "Korba Coal Basin",
+    "state": "Chhattisgarh",
+    "district": "Chhattisgarh Sector",
+    "operator": "SECL",
+    "status": "operating",
+    "location": {
+      "latitude": 22.17,
+      "longitude": 82.63
+    },
+    "methane_level": "0.02% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-120"
+  },
+  {
+    "mine_id": "OD-BLK-MCL-411",
+    "mine_name": "MCL Colliery Block-411",
+    "coalfield": "Talcher Coal Basin",
+    "state": "Odisha",
+    "district": "Odisha Sector",
+    "operator": "MCL",
+    "status": "operating",
+    "location": {
+      "latitude": 20.8,
+      "longitude": 85.27
+    },
+    "methane_level": "0.06% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-121"
+  },
+  {
+    "mine_id": "TG-BLK-SCCL-412",
+    "mine_name": "SCCL Colliery Block-412",
+    "coalfield": "Godavari Valley",
+    "state": "Telangana",
+    "district": "Telangana Sector",
+    "operator": "SCCL",
+    "status": "operating",
+    "location": {
+      "latitude": 18.64,
+      "longitude": 79.56
+    },
+    "methane_level": "0.10% CH4",
+    "gas_breach": false,
+    "risk_level": "compliant",
+    "inspector_in_charge": "DGMS-INSP-122"
+  }
+]

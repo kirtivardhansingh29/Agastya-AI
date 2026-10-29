@@ -1,0 +1,168 @@
+[
+  {
+    "contractor_id": "CONTR-101",
+    "company_name": "Eastern Mining Infra Pvt Ltd",
+    "license_validity": "2025-12-31",
+    "insurance_status": "active",
+    "compliance_documents": [
+      "Form-V_Labour_Permit.pdf",
+      "Worker_Compensation_Policy.pdf"
+    ],
+    "document_expiry_dates": {
+      "DGMS-BL-2021-99": "2024-11-05",
+      "Workmen_Insurance": "2025-06-30"
+    },
+    "equipment_inspection_certificates": [
+      "DumpTruck_Cert_88.pdf",
+      "Excavator_Hydraulic_Cert_12.pdf"
+    ]
+  },
+  {
+    "contractor_id": "CONTR-102",
+    "company_name": "Bharat Earthmovers Logistics",
+    "license_validity": "2026-03-31",
+    "insurance_status": "active",
+    "compliance_documents": [
+      "Contract_Labour_Registration.pdf"
+    ],
+    "document_expiry_dates": {
+      "Blasting_Handling_Licence": "2025-08-15"
+    },
+    "equipment_inspection_certificates": [
+      "FrontLoader_Fitness_2024.pdf"
+    ]
+  },
+  {
+    "contractor_id": "CONTR-103",
+    "company_name": "Deccan Mining Contractors",
+    "license_validity": "2024-11-10",
+    "insurance_status": "renewal_due",
+    "compliance_documents": [
+      "State_PCB_Consent.pdf"
+    ],
+    "document_expiry_dates": {
+      "Explosive_Transport_Permit": "2024-11-08"
+    },
+    "equipment_inspection_certificates": [
+      "Diesel_Bowser_Cert.pdf"
+    ]
+  },
+  {
+    "contractor_id": "CONTR-104",
+    "company_name": "Singareni Earthworks Pvt Ltd",
+    "license_validity": "2026-06-30",
+    "insurance_status": "active",
+    "compliance_documents": [
+      "Form-V_Labour_Permit.pdf",
+      "ESI_PF_Registration.pdf"
+    ],
+    "document_expiry_dates": {
+      "Labour_Licence_TG": "2026-06-30",
+      "Workmen_Insurance": "2025-09-30"
+    },
+    "equipment_inspection_certificates": [
+      "Dumper_Fitness_Cert_21.pdf",
+      "Crane_Load_Test_09.pdf"
+    ]
+  },
+  {
+    "contractor_id": "CONTR-105",
+    "company_name": "Jharia Coal Handling Services",
+    "license_validity": "2024-09-30",
+    "insurance_status": "renewal_due",
+    "compliance_documents": [
+      "Contract_Labour_Registration.pdf"
+    ],
+    "document_expiry_dates": {
+      "DGMS-Permission-UG": "2024-10-02",
+      "Workmen_Insurance": "2024-12-15"
+    },
+    "equipment_inspection_certificates": [
+      "Belt_Conveyor_Cert_44.pdf"
+    ]
+  },
+  {
+    "contractor_id": "CONTR-106",
+    "company_name": "Mahanadi Surface Mining LLP",
+    "license_validity": "2025-11-30",
+    "insurance_status": "active",
+    "compliance_documents": [
+      "State_PCB_Consent.pdf",
+      "Form-V_Labour_Permit.pdf",
+      "Explosives_Magazine_Licence.pdf"
+    ],
+    "document_expiry_dates": {
+      "Explosive_Transport_Permit": "2024-11-20",
+      "State_PCB_Consent": "2026-01-31"
+    },
+    "equipment_inspection_certificates": [
+      "Shovel_Hydraulic_Cert_07.pdf",
+      "Water_Sprinkler_Cert_03.pdf"
+    ]
+  },
+  {
+    "contractor_id": "CONTR-107",
+    "company_name": "Raniganj Drilling & Blasting Co",
+    "license_validity": "2025-05-31",
+    "insurance_status": "active",
+    "compliance_documents": [
+      "Blasting_Handling_Licence.pdf"
+    ],
+    "document_expiry_dates": {
+      "Blasting_Handling_Licence": "2025-05-31"
+    },
+    "equipment_inspection_certificates": [
+      "Drill_Rig_Cert_18.pdf"
+    ]
+  },
+  {
+    "contractor_id": "CONTR-108",
+    "company_name": "Korba Transport Corporation",
+    "license_validity": "2026-01-31",
+    "insurance_status": "renewal_due",
+    "compliance_documents": [
+      "Worker_Compensation_Policy.pdf",
+      "Motor_Vehicle_Fitness.pdf"
+    ],
+    "document_expiry_dates": {
+      "Workmen_Insurance": "2024-11-11",
+      "Motor_Vehicle_Fitness": "2025-03-31"
+    },
+    "equipment_inspection_certificates": [
+      "Tipper_Fleet_Cert_52.pdf"
+    ]
+  },
+  {
+    "contractor_id": "CONTR-109",
+    "company_name": "North Karanpura Infra Projects",
+    "license_validity": "2024-12-31",
+    "insurance_status": "active",
+    "compliance_documents": [
+      "Contract_Labour_Registration.pdf",
+      "ESI_PF_Registration.pdf"
+    ],
+    "document_expiry_dates": {
+      "Labour_Licence_JH": "2024-12-31"
+    },
+    "equipment_inspection_certificates": [
+      "Payloader_Cert_11.pdf",
+      "Dozer_Cert_06.pdf"
+    ]
+  },
+  {
+    "contractor_id": "CONTR-110",
+    "company_name": "Wardha Valley Coal Services Pvt Ltd",
+    "license_validity": "2025-08-31",
+    "insurance_status": "active",
+    "compliance_documents": [
+      "Form-V_Labour_Permit.pdf"
+    ],
+    "document_expiry_dates": {
+      "DGMS-BL-2023-41": "2025-02-28",
+      "Workmen_Insurance": "2025-08-31"
+    },
+    "equipment_inspection_certificates": [
+      "Ventilation_Fan_Cert_02.pdf"
+    ]
+  }
+]

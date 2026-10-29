@@ -1,0 +1,325 @@
+/* Agastya AI — Government-portal style demo login popup
+   Tricolour header strip, bilingual labels, demo-credentials note.
+   Also carries the header user-chip / logout styles used after sign-in. */
+
+.login-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  background: rgba(10, 18, 32, 0.86);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  overflow-y: auto;
+  animation: login-overlay-in 0.3s ease both;
+}
+
+@keyframes login-overlay-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.login-card {
+  width: 100%;
+  max-width: 430px;
+  background: #ffffff;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+}
+
+/* Tricolour strip */
+.login-tricolour {
+  display: flex;
+  height: 7px;
+}
+.login-tricolour .tri-saffron { flex: 1; background: #ff9933; }
+.login-tricolour .tri-white { flex: 1; background: #ffffff; border-bottom: 1px solid var(--border-subtle); }
+.login-tricolour .tri-green { flex: 1; background: #138808; }
+
+/* Portal header */
+.login-header {
+  text-align: center;
+  padding: 18px 24px 6px;
+}
+
+.login-govt-line {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  text-transform: uppercase;
+}
+
+.login-title {
+  margin: 8px 0 2px;
+  font-size: 26px;
+  font-weight: 800;
+  color: #0f2a52;
+  line-height: 1.15;
+}
+
+.login-title-hindi {
+  font-size: 19px;
+  font-weight: 700;
+  color: var(--brand-blue);
+}
+
+.login-subtitle {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-secondary);
+}
+
+.login-subtitle-en {
+  margin-top: 3px;
+  font-size: 11px;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+
+.login-demo-badge {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 3px 10px;
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #92400e;
+  background: var(--warning-yellow-light);
+  border: 1px solid var(--warning-yellow-border);
+  border-radius: 999px;
+}
+
+/* Form */
+.login-form {
+  padding: 14px 24px 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.login-error {
+  margin-bottom: 12px;
+  padding: 8px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--critical-red-dark);
+  background: var(--critical-red-light);
+  border: 1px solid var(--critical-red-border);
+  border-radius: var(--radius-sm);
+}
+
+.login-label {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  margin: 8px 0 5px;
+}
+
+.login-label-hindi {
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.login-input-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 10px;
+  background: var(--bg-input);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-md);
+  color: var(--text-light);
+}
+
+.login-input-wrap:focus-within {
+  border-color: var(--brand-blue);
+  box-shadow: 0 0 0 3px var(--brand-blue-light);
+  color: var(--brand-blue);
+}
+
+.login-input-wrap input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  padding: 9px 0;
+  font-size: 13.5px;
+  font-family: var(--font-sans);
+  color: var(--text-primary);
+}
+
+.login-captcha-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.login-captcha-q {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #0f2a52;
+  background: var(--bg-card-muted);
+  border: 1px dashed var(--border-dark);
+  border-radius: var(--radius-sm);
+  padding: 7px 12px;
+  user-select: none;
+}
+
+.login-captcha-refresh {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  background: #ffffff;
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+
+.login-captcha-refresh:hover {
+  border-color: var(--brand-blue);
+  color: var(--brand-blue);
+}
+
+.login-captcha-input {
+  flex: 1;
+  min-width: 0;
+  padding: 8px 10px;
+  font-size: 13.5px;
+  font-family: var(--font-sans);
+  color: var(--text-primary);
+  background: var(--bg-input);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-md);
+  outline: none;
+}
+
+.login-captcha-input:focus {
+  border-color: var(--brand-blue);
+  box-shadow: 0 0 0 3px var(--brand-blue-light);
+}
+
+.login-submit {
+  margin-top: 16px;
+  padding: 10px 14px;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: var(--font-sans);
+  color: var(--text-inverse);
+  background: var(--brand-blue);
+  border: 1px solid var(--brand-blue-hover);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+}
+
+.login-submit:hover {
+  background: var(--brand-blue-hover);
+}
+
+/* Demo credentials block */
+.login-demo-creds {
+  margin: 16px 24px 0;
+  padding: 10px 12px;
+  background: var(--bg-card-muted);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+}
+
+.login-demo-creds-title {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  margin-bottom: 6px;
+}
+
+.login-demo-creds-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 12.5px;
+  color: var(--text-primary);
+  line-height: 1.7;
+}
+
+.login-demo-creds-list code {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  background: #ffffff;
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+  padding: 0 5px;
+}
+
+.login-demo-creds-role {
+  color: var(--text-muted);
+}
+
+.login-demo-note {
+  margin-top: 7px;
+  font-size: 11px;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+
+/* Footer */
+.login-footer {
+  margin-top: 16px;
+  padding: 10px 16px;
+  text-align: center;
+  font-size: 10.5px;
+  color: var(--text-light);
+  border-top: 1px solid var(--border-subtle);
+  background: var(--bg-card-muted);
+}
+
+/* Header: signed-in user chip + logout (TopHeader) */
+.header-user-chip {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+  padding: 4px 10px;
+  background: var(--brand-blue-light);
+  border: 1px solid var(--brand-blue-border);
+  border-radius: var(--radius-md);
+}
+
+.header-user-name {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--brand-blue-hover);
+  text-transform: capitalize;
+}
+
+.header-user-role {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.header-logout-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 11px;
+  font-size: 12px;
+  font-weight: 700;
+  font-family: var(--font-sans);
+  color: var(--critical-red-dark);
+  background: var(--critical-red-light);
+  border: 1px solid var(--critical-red-border);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+}
+
+.header-logout-btn:hover {
+  background: #fee2e2;
+}

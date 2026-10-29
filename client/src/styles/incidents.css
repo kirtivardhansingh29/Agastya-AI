@@ -1,0 +1,26 @@
+/* Phase 4 Incidents CSS */
+
+.badge-fatal-prominent {
+  background: #7f1d1d !important;
+  color: #ffffff !important;
+  font-weight: 800 !important;
+  border: 1px solid #450a0a !important;
+  box-shadow: 0 0 4px rgba(127, 29, 29, 0.4);
+}
+
+.affected-persons-box {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  border-left: 4px solid #dc2626;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.affected-persons-list {
+  margin: 0;
+  padding-left: 20px;
+  color: #7f1d1d;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.6;
+}

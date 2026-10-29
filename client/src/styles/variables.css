@@ -1,0 +1,74 @@
+:root {
+  /* Colors - Base Palette */
+  --bg-body: #f4f6f9;
+  --bg-shell: #f8fafc;
+  --bg-card: #ffffff;
+  --bg-card-muted: #f8fafc;
+  --bg-input: #ffffff;
+  
+  /* Borders */
+  --border-color: #e2e8f0;
+  --border-subtle: #edf2f7;
+  --border-strong: #cbd5e1;
+  --border-dark: #94a3b8;
+
+  /* Typography */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+
+  /* Text Colors */
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-muted: #64748b;
+  --text-light: #94a3b8;
+  --text-inverse: #ffffff;
+
+  /* Regulatory Brand Colors */
+  --brand-blue: #1d4ed8;
+  --brand-blue-hover: #1e40af;
+  --brand-blue-light: #eff6ff;
+  --brand-blue-border: #bfdbfe;
+  
+  /* Severity Colors (Stitch Match) */
+  --critical-red: #dc2626;
+  --critical-red-dark: #b91c1c;
+  --critical-red-banner: #881337;
+  --critical-red-light: #fef2f2;
+  --critical-red-border: #fecaca;
+
+  --major-orange: #ea580c;
+  --major-orange-light: #fff7ed;
+  --major-orange-border: #fed7aa;
+
+  --warning-yellow: #d97706;
+  --warning-yellow-light: #fefce8;
+  --warning-yellow-border: #fef08a;
+
+  --compliant-green: #16a34a;
+  --compliant-green-light: #f0fdf4;
+  --compliant-green-border: #bbf7d0;
+
+  --ai-purple: #7c3aed;
+  --ai-purple-light: #f5f3ff;
+  --ai-purple-border: #ddd6fe;
+
+  --badge-raw-bg: #eff6ff;
+  --badge-raw-text: #2563eb;
+  --badge-calc-bg: #f1f5f9;
+  --badge-calc-text: #475569;
+  --badge-ai-bg: #faf5ff;
+  --badge-ai-text: #7c3aed;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.06), 0 2px 4px -2px rgba(0, 0, 0, 0.04);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.03);
+
+  /* Layout Dimensions */
+  --sidebar-width: 240px;
+  --header-height: 52px;
+  --banner-height: 34px;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+}

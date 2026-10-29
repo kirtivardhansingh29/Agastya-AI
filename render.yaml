@@ -1,0 +1,27 @@
+# Agastya AI — backend service on Render.
+# The frontend is deployed separately on Vercel (see vercel.json at repo root).
+# Usage: Render Dashboard -> New -> Blueprint -> select this repo.
+# After the service is created, add the Firebase secret file manually:
+#   Service -> Environment -> Secret Files -> filename: firebase-service-account.json
+#   (Secret file contents cannot be declared in this YAML.)
+services:
+  - type: web
+    name: agastya-ai-server
+    runtime: node
+    plan: free
+    rootDir: server
+    buildCommand: npm install
+    startCommand: node src/index.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      # Set this to the Vercel frontend URL after the frontend deploys
+      # (Step 3 of DEPLOY.md). Prompted in the dashboard because sync: false.
+      - key: CLIENT_URL
+        sync: false
+      # Paste the Groq API key in the dashboard. Never commit it.
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GOOGLE_APPLICATION_CREDENTIALS
+        value: /etc/secrets/firebase-service-account.json
