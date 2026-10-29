@@ -133,3 +133,4 @@ Open your browser at `http://localhost:5173`.
 - `GET /api/inspections` — Raw inspection logs
 - `GET /api/attendance` — Raw shift attendance logs
 - `GET /api/contractors` — Statutory contractor licenses and document renewals
+# Agastya-AI
